@@ -1,3 +1,7 @@
+# Login User
+email: aldoo1nonly@gmail.com
+password: 12345678
+
 # Catatan Invoice dan Bon Frontend
 
 Frontend mobile app sederhana dengan Flutter untuk kebutuhan pencatatan invoice dan bon usaha kecil / UMKM.
